@@ -1,0 +1,73 @@
+h1 {
+	background-color: purple;
+	font-size: 50PX;
+	text-align: center;
+	color: red;
+}
+body {
+	background-position: right;
+}
+h2 > img {float:left;
+	margin-top:5px;
+	margin-left:100px;
+	box-shadow: rgba(255,255,255,0.5) 10px 10px 10px;
+	width: 250px;
+	height: 400px;
+}
+ul {
+	text-align: center;
+}
+a {float: center;
+	color: white;
+}
+
+a#camisa{float:right;
+	margin-top: 0px;
+	margin-right: 700px;
+		   color:#FF0000;
+	   font-size:30px;
+	   text-decoration:none;
+	   border: transparent;
+	   border-radius: 5px;
+	   background-color: white;
+}
+a#pantalon{float:right;
+			margin-top:50px;
+			margin-right: -250px; 
+			color:#FF0000;
+			font-size:30px;
+			text-decoration:none;
+			border-radius: 5px;
+	   background-color: white;	
+}
+a#zapatos{float:right;
+			margin-top:100px;
+			margin-right: -250px;
+			color:#FF0000;
+			font-size:30px;
+			text-decoration:none;
+			border-radius: 5px;
+	   background-color: white;
+}	
+
+a#camisa:hover{color:black;}
+a#pantalon:hover{color:black;}
+a#zapatos:hover{color:black;}
+a {float: right;
+}
+img#publicidad1 {float:center;
+			margin-left: 100px;
+			box-shadow: rgba(255,255,255,0.5);
+}
+img#publicidad2 {float:right;
+			margin-top:10px;
+			margin-right: 10px;
+			box-shadow: rgba(255,255,255,0.5) -10px 10px 10px;
+}
+p { float:center;
+	background-color: white;
+	font-size: 20PX;
+	text-align: center;
+	color: black;
+	margin-top: 600px;
+}

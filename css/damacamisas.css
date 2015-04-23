@@ -1,0 +1,52 @@
+h1 { float:center;
+	background-color: pink;
+	font-size: 50PX;
+	text-align: right;
+	color: red;
+}
+
+body {
+	background-position: right;
+}
+h2 > img {float:left;
+	margin-top:5px;
+	margin-left:100px;
+	box-shadow: rgba(0,0,0,0.5) 10px 10px;
+	width: 450px;
+	height: 200px;
+}
+h3 { float:center;
+	border: transparent;
+	border-radius: 10px;
+	font-size: 10PX;
+	text-align: right;
+	color: red;
+	text-decoration:none;
+}
+ul {
+	text-align: center;
+}
+a { float: center;
+}
+img#publicidad2 {float:right;
+			margin-top:10px;
+			margin-right: 100px;
+			box-shadow: rgba(0,0,0,0.5) -10px 10px;
+}
+table {
+		float: center;
+		margin-top: 400px;
+		margin-left: 300px;
+		box-shadow: rgba(0,0,0,0.5) -10px 10px;
+		font-family: Verdana solid;
+		font-size: 30px;
+
+}
+p { float:center;
+	background-color: white;
+	font-size: 20PX;
+	text-align: center;
+	color: red;
+}
+a#comprar:hover{color:red;}
+a#inicio:hover{color:red;}
